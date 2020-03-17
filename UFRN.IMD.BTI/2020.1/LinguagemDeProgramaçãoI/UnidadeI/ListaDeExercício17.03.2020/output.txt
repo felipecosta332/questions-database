@@ -1,0 +1,60 @@
+
+1ª primeiro teste.
+Resultado com busca sequencial para buscar o número 7.
+Tempo: 0.000003.
+Resultado com busca binária para buscar o número 7.
+Tempo: 0.000001.
+
+2ª primeiro teste.
+Resultado com busca sequencial para buscar o número 406.
+Tempo: 0.000013.
+Resultado com busca binária para buscar o número 406.
+Tempo: 0.000001.
+
+3ª primeiro teste.
+Resultado com busca sequencial para buscar o número 105.
+Tempo: 0.000004.
+Resultado com busca binária para buscar o número 105.
+Tempo: 0.000001.
+
+4ª primeiro teste.
+Resultado com busca sequencial para buscar o número 487.
+Tempo: 0.000016.
+Resultado com busca binária para buscar o número 487.
+Tempo: 0.000002.
+
+5ª primeiro teste.
+Resultado com busca sequencial para buscar o número 113.
+Tempo: 0.000005.
+Resultado com busca binária para buscar o número 113.
+Tempo: 0.000002.
+
+6ª primeiro teste.
+Resultado com busca sequencial para buscar o número 52.
+Tempo: 0.000002.
+Resultado com busca binária para buscar o número 52.
+Tempo: 0.000002.
+
+7ª primeiro teste.
+Resultado com busca sequencial para buscar o número 490.
+Tempo: 0.000016.
+Resultado com busca binária para buscar o número 490.
+Tempo: 0.000002.
+
+8ª primeiro teste.
+Resultado com busca sequencial para buscar o número 57.
+Tempo: 0.000003.
+Resultado com busca binária para buscar o número 57.
+Tempo: 0.000001.
+
+9ª primeiro teste.
+Resultado com busca sequencial para buscar o número 498.
+Tempo: 0.000016.
+Resultado com busca binária para buscar o número 498.
+Tempo: 0.000002.
+
+10ª primeiro teste.
+Resultado com busca sequencial para buscar o número 388.
+Tempo: 0.000013.
+Resultado com busca binária para buscar o número 388.
+Tempo: 0.000001.
